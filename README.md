@@ -1,7 +1,7 @@
 - 👋 Hi, I’m joshua onyeka
 - 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning dart and flutter
-- 💞️ I’m looking to collaborate on any mobile app devlopment project
+- 🌱 I’m currently learning Front-end development 
+- 💞️ I’m looking to collaborate on any open source projects (web.)
 - 📫 How to reach me:
 -     email:joshuaonyeka2020@gmail.com
 -     tel no:+234-906-3482-183
